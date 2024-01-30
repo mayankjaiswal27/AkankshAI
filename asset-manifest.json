@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akankshai/static/css/main.bed71f58.css",
+    "main.js": "/akankshai/static/js/main.0e449181.js",
+    "static/js/787.11b2a80f.chunk.js": "/akankshai/static/js/787.11b2a80f.chunk.js",
+    "index.html": "/akankshai/index.html",
+    "main.bed71f58.css.map": "/akankshai/static/css/main.bed71f58.css.map",
+    "main.0e449181.js.map": "/akankshai/static/js/main.0e449181.js.map",
+    "787.11b2a80f.chunk.js.map": "/akankshai/static/js/787.11b2a80f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed71f58.css",
+    "static/js/main.0e449181.js"
+  ]
+}
